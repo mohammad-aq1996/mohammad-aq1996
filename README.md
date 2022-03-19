@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Gholampour
-- 👀 I’m interested in back-end django framework, deep learning and computer vision
-- 🌱 I’m currently learning computer vision
+- 👀 I’m interested in back-end django framework.
+- 🌱 I’m currently learning django framework
 - 💞️ I’m looking to collaborate on django projects
 - 📫 my email: mohammad.aq1996@gmail.com
 
